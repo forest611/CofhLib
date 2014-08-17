@@ -1,3 +1,8 @@
+*****************************************************************************
+THIS IS AN UNOFFICIAL FORK OF THE 1.6.4 VESION OF COFHLIB
+IT'S HERE BECAUSE THE OFFICIAL REPO IS GONE AND I NEEDED IT FOR BUILD SCRIPTS
+*****************************************************************************
+
 ﻿The intention of the CoFH Common Library is to establish a framework for 
 modders to use to avoid "reinventing the wheel," as it were. This 
 library contains a lot of basic functionality that quite a few mods end 
